@@ -42,7 +42,7 @@ The analysis aims to answer key questions such as:
 ![Welcome Page](./WelcomePage.png)
 
 ### Report Page
-![Report Page](./ReportDashboard.png)
+![Report Page](./Report.png)
 
 ---
 
